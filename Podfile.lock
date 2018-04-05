@@ -1,0 +1,40 @@
+PODS:
+  - AMap3DMap (6.1.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.4.3)
+  - AMapLocation (2.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapNavi (6.0.0):
+    - AMap3DMap (>= 6.0.0)
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (6.1.0):
+    - AMapFoundation (~> 1.4)
+  - FTIndicator (1.2.6):
+    - FTIndicator/FTNotificationIndicator (= 1.2.6)
+    - FTIndicator/FTProgressIndicator (= 1.2.6)
+    - FTIndicator/FTToastIndicator (= 1.2.6)
+  - FTIndicator/FTNotificationIndicator (1.2.6)
+  - FTIndicator/FTProgressIndicator (1.2.6)
+  - FTIndicator/FTToastIndicator (1.2.6)
+  - SWRevealViewController (2.3.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - AMapNavi
+  - AMapSearch
+  - FTIndicator
+  - SWRevealViewController
+
+SPEC CHECKSUMS:
+  AMap3DMap: 2cf8028884fc66c7e051f5e8818808949eff290d
+  AMapFoundation: 973682cfe60b92efd73a8ef8f1144fa0fa8e1296
+  AMapLocation: 55116a2c8956eab7550cbb56e989aa5cdcc424e3
+  AMapNavi: 4d75c4ff83abd50959530e95c6da439e5b9fc06a
+  AMapSearch: e3f96bd0681abe70abba303709a1a05625a8f76c
+  FTIndicator: d2a7c204341b7b0165b6dbeb5bf6979c6d7d4bb7
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+
+PODFILE CHECKSUM: b554ce597ab30db96246f2889eb59f3739fd99d1
+
+COCOAPODS: 1.4.0
